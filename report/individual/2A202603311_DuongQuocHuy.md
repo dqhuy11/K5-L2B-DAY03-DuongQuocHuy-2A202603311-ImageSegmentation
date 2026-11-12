@@ -2,7 +2,7 @@
 
 - Mã học viên theo lớp: 2A202603311
 - Ngày / CVAT local: 11/11/2026 / CVAT local
-- Công cụ đã dùng: Brush (mask), Polygon và SAM (ViT) để gợi ý biên, sau đó em tự kiểm và sửa lại.
+- Công cụ đã dùng: Brush (mask), Polygon và SAM (ViT).
 
 ## 1. Bài đã nộp
 
