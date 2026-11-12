@@ -25,7 +25,6 @@ Cả 9 ZIP đều có dữ liệu và đúng format: semantic xuất Segmentatio
 
 - Ảnh, vị trí và object Medium đầu tiên tự vẽ: `medium_instance`, ảnh `000000181542.jpg`, xe máy bên trái, nửa dưới ảnh (object 1, lớp `motorcycle`). [XÁC NHẬN: đây đúng là object bạn vẽ đầu tiên]
 - Class và quy tắc tôi dùng để chọn biên: lớp `motorcycle`. Mask chỉ phủ phần xe nhìn thấy (thân, yên, hai bánh). Người ngồi trên xe là một `person` riêng (object 8) nên không gộp vào mask xe máy. Tôi không vẽ đoán phần xe bị người đi bộ phía trước che.
-- Nếu dùng gợi ý sau đó: [XÁC NHẬN: "Không dùng gợi ý tự động cho object này" hoặc ghi vùng gợi ý sai/đúng, bạn sửa hay giữ và lý do]
 
 ## 3. Một lỗi tôi tìm thấy và sửa
 
