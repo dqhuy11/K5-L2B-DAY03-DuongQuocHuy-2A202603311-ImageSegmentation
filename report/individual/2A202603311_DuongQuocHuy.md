@@ -2,7 +2,7 @@
 
 - Mã học viên theo lớp: 2A202603311
 - Ngày / CVAT local: 11/11/2026 / CVAT local
-- Công cụ đã dùng: Brush (mask, export RLE) và Polygon. [XÁC NHẬN: có dùng Intelligent Scissors / SAM không; nếu không thì giữ nguyên dòng này]
+- Công cụ đã dùng: Brush (mask, export RLE) và Polygon. [XÁC NHẬN: có dùng Intelligent Scissors / SAM]
 
 ## 1. Bài đã nộp
 
