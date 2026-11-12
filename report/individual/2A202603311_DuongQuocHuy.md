@@ -1,4 +1,4 @@
-# Báo cáo thực hành Day 3 — điền trực tiếp trong fork của bạn
+# Báo cáo thực hành Day 3
 
 - Mã học viên theo lớp: 2A202603311
 - Ngày / CVAT local: 11/11/2026 / CVAT local
